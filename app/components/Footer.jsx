@@ -17,28 +17,28 @@ const Footer = ({ isDarkMode }) => {
             alt=""
             className="w-6"
           />
-          chinmaypatra525@gmail.com
+          hardiksinghal896@gmail.com
         </div>
       </div>
 
       <div className="text-center sm:flex items-center justify-between border-t border-gray-400 mx-[10%] mt-12 py-6 ">
-        <p>© 2025 Chinmay Kumar Patra. All right reserved.</p>
+        <p>© 2025 Hardik Singhal. All right reserved.</p>
         <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
           <li>
-            <a target="_blank" href="https://github.com/chinmaypatra525">
+            <a target="_blank" href="https://github.com/HardikSinghal896?tab=repositories">
               GitHub
             </a>
           </li>
           <li>
-            <a target="_blank" href="https://www.linkedin.com/in/chinmay-kumar-patra-a68a8933b/">
+            <a target="_blank" href="https://www.linkedin.com/in/hardik-singhal02">
               LinkedIn
             </a>
           </li>
-          <li>
+          {/* <li>
             <a target="_blank" href="https://x.com/chinmaypatra525">
               Twitter
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>

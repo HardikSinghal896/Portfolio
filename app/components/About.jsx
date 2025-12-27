@@ -55,10 +55,7 @@ function About({ isDarkMode }) {
           transition={{ duration: 0.8, delay: 0.6 }}
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            I'm a web developer with a focus on the MERN stack, but still
-            exploring other technologies and frameworks that catch my interest!
-            if you're looking for a developer to add to your team, I'd love to
-            hear from you!
+            I'm a full-stack developer with a focus on Java Spring Boot backend and React frontend, but always exploring new technologies and frameworks that push the boundaries! Specializing in microservices architecture,event-driven systems with Kafka, and containerized deployments. If you're looking for a developer to add to your team, I'd love to hear from you!
           </p>
 
           <motion.ul

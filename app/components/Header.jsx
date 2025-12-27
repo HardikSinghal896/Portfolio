@@ -19,7 +19,7 @@ export default function Header() {
         transition={{ duration: 0.6, delay: 0.3 }}
         className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo"
       >
-        Hi! I'm Chinmay Kumar Patra
+        Hi! I'm Hardik Singhal
         <Image src={assets.hand_icon} alt="" className="w-6" />
       </motion.h3>
       <motion.h1
@@ -28,7 +28,7 @@ export default function Header() {
         transition={{ duration: 0.8, delay: 0.5 }}
         className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo"
       >
-        Full Stack web developer based out of Bangalore.
+        Full Stack web developer based out of Gurgaon.
       </motion.h1>
       <motion.p
         initial={{ opacity: 0 }}
@@ -36,8 +36,8 @@ export default function Header() {
         transition={{ duration: 0.6, delay: 0.7 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        I am a fullstack developer from Bangalore, India with 5+ years of
-        experience in companies like Deloitte and Coforge.
+        I am a fullstack developer from Gurgaon, India with 2+ years of
+        experience in companies like Deloitte and Mroads.
       </motion.p>
 
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
